@@ -20,7 +20,7 @@
 
 
 **Short Description**  
-Hi there 👋, my name is Alexander and I am a security researcher and developer. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by security, privacy, and aerospace engineering, and have experience with data protection laws and regulation. Recently, I have been learning solidity and rust programming language to transition to web 3.0 security. If you are interested in talking about blockchain technology or web 3.0 security please send me a note.
+Hi there 👋, my name is Ovabor and I am a security researcher and developer. I love finding security vulnerabilities and developing exploits, as well as fixing functional bugs. I am very fascinated by security, privacy, and aerospace engineering, and have experience with data protection laws and regulation. Recently, I have been learning solidity and rust programming language to transition to web 3.0 security. If you are interested in talking about blockchain technology or web 3.0 security please send me a note.
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=aovabo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aovabo&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
