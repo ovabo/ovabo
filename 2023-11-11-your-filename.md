@@ -1,8 +1,10 @@
-## A New Post
+## A Transparent & Fair Marketplace for Heavy Equipment in Africa
 
-WE ENABLE CONTRACTORS TO BE MORE COMPETITIVE THROUGH TECHNOLOGICAL INNOVATION.
-Our team has deep ties to the construction industry and is passionate about making contractors more competitive through technology innovation. In fact, Yard Club was originally created to help Colin’s family business be more efficient and profitable.
+Our team has deep ties to the African construction industry and is passionate about about building technology to transform an opaque and information assymetry industry to a transparent, fair,and customer-centric industry.
 
-We believe first and foremost in creating a Member community based on mutual trust and respect for our fellow contractors. In doing so, we enable Member contractors to rent idle equipment to each other securely and safely – a win, win for both renters and owners. All Members sign off on the Yard Club Code when entering the Club.
+eQuipfy was originally created to help our family business be more efficient and profitable by digitizing our sales and renter process. 
 
-Yard Club is a proud Member of United Contractors. The team is based in San Francisco and is rapidly expanding across California.
+The team is based in Lagos, Nigeria and San Francisco, USA and is rapidly expanding across Africa.
+
+Our mission is to build the modern platform for all things heavy equipment in Africa.
+
